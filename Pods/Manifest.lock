@@ -1,0 +1,20 @@
+PODS:
+  - CLTypingLabel (0.4.0)
+  - IQKeyboardManager (6.5.9)
+
+DEPENDENCIES:
+  - CLTypingLabel (~> 0.4.0)
+  - IQKeyboardManager
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CLTypingLabel
+    - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  CLTypingLabel: 95a7d1faf7e3d1d952cd11cb0491d17d80c50934
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
+
+PODFILE CHECKSUM: ec853fee6a9324dfc1412870c357d1f16f200c56
+
+COCOAPODS: 1.5.2
